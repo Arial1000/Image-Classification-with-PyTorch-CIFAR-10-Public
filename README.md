@@ -22,5 +22,12 @@ This repository explores hands-on experience in machine learning, deep learning,
   - Evaluated model using standard metrics and visualized misclassifications.  
 - **Skills Demonstrated:** CNN architecture, model tuning, and visualization.
 
+## How to Use
 
+### 1. Clone repo.
+### 2. Dowload CIFAR-10 data set and label folder as data.
+### 3. Run the script you want to execute.
 
+## Contact
+For questions or collaboration, feel free to reach out:  
+- Email: lyricthefrist@gmail.com  
